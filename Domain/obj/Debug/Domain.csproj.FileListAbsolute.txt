@@ -1,0 +1,16 @@
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\Domain.dll.config
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\Domain.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\Domain.pdb
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Debug\Domain.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,16 @@
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\Domain.dll.config
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\Domain.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\Domain.pdb
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\EntityFramework.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\Newtonsoft.Json.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\EntityFramework.xml
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\Newtonsoft.Json.xml
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\es\EntityFramework.resources.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\bin\Release\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Release\Domain.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Domain\obj\Release\Domain.pdb
