@@ -1,0 +1,9 @@
+C:\Users\Raul\source\repos\FinalDesAEA-master\Models\bin\Release\netstandard2.0\Models.deps.json
+C:\Users\Raul\source\repos\FinalDesAEA-master\Models\bin\Release\netstandard2.0\Models.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Models\bin\Release\netstandard2.0\Models.pdb
+C:\Users\Raul\source\repos\FinalDesAEA-master\Models\obj\Release\netstandard2.0\Models.csprojAssemblyReference.cache
+C:\Users\Raul\source\repos\FinalDesAEA-master\Models\obj\Release\netstandard2.0\Models.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\FinalDesAEA-master\Models\obj\Release\netstandard2.0\Models.AssemblyInfo.cs
+C:\Users\Raul\source\repos\FinalDesAEA-master\Models\obj\Release\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FinalDesAEA-master\Models\obj\Release\netstandard2.0\Models.dll
+C:\Users\Raul\source\repos\FinalDesAEA-master\Models\obj\Release\netstandard2.0\Models.pdb
